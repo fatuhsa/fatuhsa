@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9F7AEA&center=true&vCenter=true&random=false&width=435&lines=Fatuh+Sani+Ansori;weeb+++developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -35,10 +31,17 @@ seorang weeb yang suka coding iseng-iseng ⛩️
 ### 📦 project iseng
 
 <p align="center">
-  <a href="https://github.com/fatuhsa/sanix-pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=sanix-pokedex&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
-  <a href="https://github.com/fatuhsa/friday"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=friday&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
-  <a href="https://github.com/fatuhsa/ygo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=ygo&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
-  <a href="https://github.com/fatuhsa/evren-house"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=evren-house&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
+  <a href="https://github.com/fatuhsa/sanix-pokedex"><img src="https://img.shields.io/badge/sanix--pokedex-Svelte-FF3E00?style=for-the-badge&logo=svelte" /></a>
+  <a href="https://github.com/fatuhsa/friday"><img src="https://img.shields.io/badge/friday-React-61DAFB?style=for-the-badge&logo=react" /></a>
+  <a href="https://github.com/fatuhsa/ygo"><img src="https://img.shields.io/badge/ygo-TypeScript-3178C6?style=for-the-badge&logo=typescript" /></a>
+  <a href="https://github.com/fatuhsa/evren-house"><img src="https://img.shields.io/badge/evren--house-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /></a>
+  <a href="https://github.com/fatuhsa/track-sepeda"><img src="https://img.shields.io/badge/track--sepeda-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /></a>
+</p>
+
+### 🏆 pencapaian
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatuhsa&theme=midnight-purple&no-frame=true&no-bg=true&column=5" />
 </p>
 
 ---
