@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=9f7aea&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=9f7aea&style=for-the-badge" alt="profile views" />
+  <img src="https://media.tenor.com/4VoOUsOZqQ4AAAAC/anya-spy-x-family.gif" height="200" />
 </p>
 
 ---
 
-### 🧑‍💻 about me
+### about me
 
-seorang weeb yang suka coding iseng-iseng ⛩️
+seorang weeb yang suka coding iseng-iseng
 
-### 🔧 tech stack
+### tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -37,15 +35,5 @@ seorang weeb yang suka coding iseng-iseng ⛩️
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" />
-</p>
-
-<p align="center">
   <a href="https://github.com/fatuhsa"><img src="https://img.shields.io/badge/GitHub-fatuhsa-9f7aea?style=for-the-badge&logo=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-   thanks for visiting!  🩵
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 </p>
