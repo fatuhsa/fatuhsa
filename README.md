@@ -28,16 +28,6 @@ seorang weeb yang suka coding iseng-iseng ⛩️
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 📦 project iseng
-
-<p align="center">
-  <a href="https://github.com/fatuhsa/sanix-pokedex"><img src="https://img.shields.io/badge/sanix--pokedex-Svelte-FF3E00?style=for-the-badge&logo=svelte" /></a>
-  <a href="https://github.com/fatuhsa/friday"><img src="https://img.shields.io/badge/friday-React-61DAFB?style=for-the-badge&logo=react" /></a>
-  <a href="https://github.com/fatuhsa/ygo"><img src="https://img.shields.io/badge/ygo-TypeScript-3178C6?style=for-the-badge&logo=typescript" /></a>
-  <a href="https://github.com/fatuhsa/evren-house"><img src="https://img.shields.io/badge/evren--house-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /></a>
-  <a href="https://github.com/fatuhsa/track-sepeda"><img src="https://img.shields.io/badge/track--sepeda-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /></a>
-</p>
-
 ### 🏆 pencapaian
 
 <p align="center">
