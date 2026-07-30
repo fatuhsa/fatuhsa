@@ -31,7 +31,7 @@ seorang weeb yang suka coding iseng-iseng ⛩️
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fatuhsa/fatuhsa/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/fatuhsa/fatuhsa/main/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
