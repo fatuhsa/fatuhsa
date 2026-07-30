@@ -50,19 +50,16 @@ Weeb developer crafting code for fun and passion.
 
 ---
 
-### GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatuhsa&theme=react-dark&bg_color=0f172a&color=f7df1e&line=f7df1e&point=fef08a" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatuhsa&theme=tokyonight&background=0f172a&ring=f7df1e&fire=f7df1e&currStreakNum=f7df1e&sideNums=fef08a&currStreakLabel=fef08a" alt="GitHub Streak" />
-</p>
+
 
 ---
 
-### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fatuhsa/fatuhsa/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
