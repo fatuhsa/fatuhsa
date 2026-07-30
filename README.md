@@ -41,11 +41,10 @@ seorang weeb yang suka coding iseng-iseng ⛩️
   <a href="https://github.com/fatuhsa/evren-house"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=evren-house&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
 </p>
 
-### 📊 statistik
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatuhsa&show_icons=true&theme=midnight-purple&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatuhsa&layout=compact&theme=midnight-purple&border_radius=10" />
+  <img src="https://raw.githubusercontent.com/fatuhsa/fatuhsa/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
