@@ -1,22 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" height="180" alt="Mario" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=f7df1e&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/YncBwvVvIRwAAAAM/anime-waifu.gif" height="180" />
-</p>
-
 ---
 
 ### About Me
 
-Weeb developer crafting code for fun and passion.
+Developer crafting code for fun and passion.
 
 - **Primary Focus**: Frontend & Modern Web Engineering
 - **Core Ecosystem**: TypeScript, JavaScript, Node.js, Svelte, React, Vue
