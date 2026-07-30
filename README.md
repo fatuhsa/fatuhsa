@@ -1,24 +1,65 @@
-## 👋 Fatuh Sani Ansori
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9F7AEA&center=true&vCenter=true&random=false&width=435&lines=Fatuh+Sani+Ansori;weeb+++developer" alt="Typing SVG" />
+</p>
 
-seorang weeb yang kadang coding 📈
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
 
-### 🔧 pernah pake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=9f7aea&style=for-the-badge" alt="profile views" />
+</p>
 
-svelte, react, vue, typescript, javascript, python, tailwind
+---
+
+### 🧑‍💻 about me
+
+seorang weeb yang suka coding iseng-iseng ⛩️
+
+### 🔧 tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
 ### 📦 project iseng
 
-- [sanix-pokedex](https://github.com/fatuhsa/sanix-pokedex) — gotta catch 'em all pake svelte 🌀
-- [friday](https://github.com/fatuhsa/friday) — waifu gacha simulator (SSR 5% rate) 💎
-- [ygo](https://github.com/fatuhsa/ygo) — yu-gi-oh thing 🃏
-- [track-sepeda](https://github.com/fatuhsa/track-sepeda) — tracking sepeda 🚴
-- [evren-house](https://github.com/fatuhsa/evren-house) — project rumah 🏠
-- sisanya cek repo aja
+<p align="center">
+  <a href="https://github.com/fatuhsa/sanix-pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=sanix-pokedex&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
+  <a href="https://github.com/fatuhsa/friday"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=friday&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
+  <a href="https://github.com/fatuhsa/ygo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=ygo&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
+  <a href="https://github.com/fatuhsa/evren-house"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fatuhsa&repo=evren-house&theme=midnight-purple&show_icons=true&border_radius=10" /></a>
+</p>
 
-### 🎮 currently playing
+### 📊 statistik
 
-genshin impact / whatever is fun
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatuhsa&show_icons=true&theme=midnight-purple&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatuhsa&layout=compact&theme=midnight-purple&border_radius=10" />
+</p>
 
-### 📫 reach me
+---
 
-github aja udah
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fatuhsa"><img src="https://img.shields.io/badge/GitHub-fatuhsa-9f7aea?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+   thanks for visiting!  🩵
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+</p>
