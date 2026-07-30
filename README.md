@@ -28,12 +28,6 @@ seorang weeb yang suka coding iseng-iseng ⛩️
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### 🏆 pencapaian
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatuhsa&theme=midnight-purple&no-frame=true&no-bg=true&column=5" />
-</p>
-
 ---
 
 <p align="center">
