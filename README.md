@@ -53,8 +53,7 @@ Weeb developer crafting code for fun and passion.
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatuhsa&show_icons=true&theme=tokyonight&title_color=9f7aea&icon_color=9f7aea&text_color=c4b5fd&bg_color=0f172a" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatuhsa&layout=compact&theme=tokyonight&title_color=9f7aea&text_color=c4b5fd&bg_color=0f172a" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatuhsa&theme=react-dark&bg_color=0f172a&color=9f7aea&line=9f7aea&point=c4b5fd" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
