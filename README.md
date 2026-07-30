@@ -1,9 +1,15 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=9f7aea&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/4VoOUsOZqQ4AAAAC/anya-spy-x-family.gif" height="200" />
+  <img src="https://media.tenor.com/YncBwvVvIRwAAAAM/anime-waifu.gif" height="200" />
 </p>
 
 ---
