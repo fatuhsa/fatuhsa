@@ -1,3 +1,31 @@
+# Profile README Redesign Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Redesign and modernize `README.md` for `fatuhsa` with a Modern Aesthetic Weeb theme without Python badges or emojis.
+
+**Architecture:** Update `README.md` with structured sections: Header with anime accents, clean bio text (no emojis), categorized Tech Stack badges (no Python), GitHub stats cards, snake SVG container, and socials footer.
+
+**Tech Stack:** Markdown, HTML badges (img.shields.io), GitHub Readme Stats API, GitHub Streak Stats API, GitHub Actions (snake generation).
+
+## Global Constraints
+- No Python badge in Tech Stack.
+- No emojis in bio or text sections.
+- Keep theme aesthetic centered around `#9f7aea` (purple dark theme).
+- Valid Markdown without broken image/link URLs.
+
+---
+
+### Task 1: Update README.md with the Redesigned Profile Layout
+
+**Files:**
+- Modify: `README.md`
+
+- [ ] **Step 1: Write the updated README.md content**
+
+Replace `README.md` content with:
+
+```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -74,3 +102,15 @@ Weeb developer crafting code for fun and passion.
 <p align="center">
   <a href="https://github.com/fatuhsa"><img src="https://img.shields.io/badge/GitHub-fatuhsa-9f7aea?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
 </p>
+```
+
+- [ ] **Step 2: Verify Markdown syntax & links**
+
+Check that python is absent, emojis are absent, and image URLs are valid.
+
+- [ ] **Step 3: Commit changes**
+
+```bash
+git add README.md
+git commit -m "style: revamp profile README layout, update tech stack and add stats cards"
+```
