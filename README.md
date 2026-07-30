@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=9f7aea&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fatuhsa&label=orang+yang+ngintip&color=f7df1e&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ Weeb developer crafting code for fun and passion.
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatuhsa&theme=react-dark&bg_color=0f172a&color=9f7aea&line=9f7aea&point=c4b5fd" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatuhsa&theme=react-dark&bg_color=0f172a&color=f7df1e&line=f7df1e&point=fef08a" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatuhsa&theme=tokyonight&background=0f172a&ring=9f7aea&fire=9f7aea&currStreakNum=9f7aea" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatuhsa&theme=tokyonight&background=0f172a&ring=f7df1e&fire=f7df1e&currStreakNum=f7df1e&sideNums=fef08a&currStreakLabel=fef08a" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,5 +71,5 @@ Weeb developer crafting code for fun and passion.
 ---
 
 <p align="center">
-  <a href="https://github.com/fatuhsa"><img src="https://img.shields.io/badge/GitHub-fatuhsa-9f7aea?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
+  <a href="https://github.com/fatuhsa"><img src="https://img.shields.io/badge/GitHub-fatuhsa-F7DF1E?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile" /></a>
 </p>
